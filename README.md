@@ -1,5 +1,12 @@
-# Games – Gemini Ultra Simulator
+---
+title: Games
+emoji: 💻
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: 1.32.2
+app_file: app.py
+pinned: false
+---
 
-## Short Description: 
-A flexible simulation sandbox where users can input high-level goals and witness emergent behavior. Ideal for testing AI training, robotics, or complex systems modeling.
-
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
